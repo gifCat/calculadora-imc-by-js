@@ -1,0 +1,29 @@
+//////////Calculadora de IMC//////////
+-Pega o valor das variaveis dos campos de input, 
+calcula e depois mostra o valor na tela.
+
+Calculo a ser feito:
+IMC = x kg ÷ y²
+
+Menssagem que exibira na  boxmsg:
+
+Seu peso está (Baixo peso/Peso ideal/Sobrepeso/1obesidade/2obesidade/Obesidade grave)
+Baixo peso:
+<=18,5
+Peso ideal:
+18,6-24,9
+Sobrepeso:
+25-29,9
+1obesidade:
+30-34,9
+2obesidade:
+35-39,9
+Obesidade grave:
+40<
+
+1-Pegar o valor dos inputs e armazenar
+
+2-pegar os valores armazenados dos inputs e fazer o calculo 
+e armazenar esse resultado como valor de uma variavel
+
+3-exibir esses valor junto com a menssagem, nesse modelo(seu peso esta {VarInP})
